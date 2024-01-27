@@ -1,0 +1,62 @@
+#navbar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: #FFF;
+    width: 100%;
+}
+#title{
+    display: flex;
+}
+#empty{
+    width: 100px;
+}
+#image{
+    height: 131px;
+    width: 231px;
+}
+
+#items{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#item1{
+    display: flex;
+}
+
+#phone{
+    background: url(../assets/Ellipse1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 5px;
+    margin-top: 24px;
+    height: 37px;
+}
+#text1{
+    font-family: outfit;
+    color: rgb(139, 135, 135);
+}
+#text2{
+    font-family: outfit;
+}
+
+#item2{
+    display: flex;
+}
+#email{
+    background: url(../assets/Ellipse1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 5px;
+    margin-top: 24px;
+    height: 37px;
+
+}
+#text3{
+    font-family: outfit;
+    color: rgb(139, 135, 135);
+}
+#text4{
+    font-family: outfit;
+}
