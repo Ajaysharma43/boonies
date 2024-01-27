@@ -12,7 +12,11 @@ function Navbar() {
                     <div class="dropdown">
                     <span>STAYS</span>
                     <div class="dropdown-content">
-                    <p>Hello World!</p>
+                    <p>COTTAGES</p>
+                    <p>TENT</p>
+                    <p>TREE HOUSE</p>
+                    <p>CAMP</p>
+                    <p>HUT</p>
                      </div>
                      </div>
                     <p id="items1">BLOGS</p>

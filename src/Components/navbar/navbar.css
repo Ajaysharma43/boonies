@@ -7,6 +7,8 @@
     height: 100px;
     width: 1500px;
     border-radius: 35px;
+    position: absolute;
+    margin-top: 123px;
 }
 /* #section1{
 
@@ -23,6 +25,7 @@
 .dropdown {
     position: relative;
     display: inline-block;
+    margin-top: 15px;
   }
   
   .dropdown-content {
