@@ -28,7 +28,7 @@ function Navbar() {
                 <ul id='list2'>
                     <img src={search} alt="" id='search-image' />
                     <p id='items2'>Search Place</p>
-                    <p id='items2'>Login / Signup</p>
+                    <p id='items2'>|      Login / Signup</p>
                     <button id='items2' class="button">BECOME A HOST</button>
                     <div id="empty"></div>
                 </ul>

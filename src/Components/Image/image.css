@@ -6,7 +6,7 @@
     background-size: cover;
     position: absolute;
     z-index: -1;
-    top: -217px;
+    top: -254px;
     left: 0px;
 }
 #image-empty{
@@ -35,4 +35,29 @@
     color: white;
     text-shadow: 1px 1px 1px black;
     font-size: 52px;
+}
+#image-empty-2{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+}
+#image-empty-3{
+    display: flex;
+    gap: 44px;
+}
+#image-line{
+    background-color: white;
+    height: 3px;
+    width: 169px;
+    position: relative;
+    top: 28px;
+}
+#image-text-3{
+    color: white;
+    font-size: 36px;
+    font-family: "Dancing Script";
+}
+
+#image-location{
+    
 }
