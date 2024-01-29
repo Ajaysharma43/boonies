@@ -1,6 +1,7 @@
 import './image.css'
 import vally from '../../assets/vally.jpeg'
 import location from '../../assets/location.png'
+import search1 from '../../assets/search1.png'
 function image() {
     return(
         <>
@@ -20,15 +21,15 @@ function image() {
             </div>
             <div id='image-empty-4'>
                 <div></div>
-                <div>
+                <div id='image-empty-5'>
                 <div id='image-location'>
                 <img src={location} alt="" id='image-location-2' />
                 </div>
                 <div>
-
+                    <input type="text" placeholder='Search By City, State or Stay Name' id='image-search'/>
                 </div>
                 <div>
-
+                <button id='image-search-button'><p><img src={search1.png} alt={search1.png} id='image-search1'/>Search</p></button>
                 </div>
                 </div>
                 <div></div>

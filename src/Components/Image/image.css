@@ -4,10 +4,11 @@
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
+    position: relative;
     z-index: -1;
     top: -254px;
     left: 0px;
+    background-size: cover;
 }
 #image-empty{
     height: 624px;
@@ -58,6 +59,46 @@
     font-family: "Dancing Script";
 }
 
-#image-location{
-    
+
+#image-empty-4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+#image-empty-5{
+    background-color: white;
+    width: 866px;
+    height: 80px;
+    border-radius: 9px;
+    position: absolute;
+    display: flex;
+}
+#image-location-2{
+    position: relative;
+    top: 24px;
+    padding-right: 16px;
+}
+#image-search{
+    width: 650px;
+    border: none;
+    position: relative;
+    top: 28px;
+    font-size: 20px;
+}
+#image-search:focus{
+    border: white;
+}
+
+
+#image-search-button{
+    width: 126px;
+    position: relative;
+    top: 12px;
+    background-color: #116D3C;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
 }

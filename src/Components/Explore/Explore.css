@@ -1,0 +1,14 @@
+#Explore-empty{
+    height: 100px;
+}
+#Explore-empty-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#Explore-images{
+    display: contents;
+    gap: 60px;
+    height: 72px;
+    width: 72px;
+}
