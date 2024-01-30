@@ -11,9 +11,7 @@ const Homepage = () => {
         <Navbar/>
         <Image/>
         <Explore/>
-        <div>
         <Explore_2/>
-        </div>
         
         </>
     )

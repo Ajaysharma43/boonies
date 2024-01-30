@@ -38,10 +38,7 @@ function Explore() {
             <p>Resort</p>
         </div>
         
-        </div>
-
-
-        
+        </div>   
         </>
     )
 }

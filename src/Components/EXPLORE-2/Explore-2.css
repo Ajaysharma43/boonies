@@ -1,15 +1,22 @@
 #Explore-Empty-3{
-
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 141px;
 }
 #Explore-container{
 
 }
 #Explore-card{
-background-image: url(/src/assets/Explore-card-1.jpg);
-width: 10%;
-height: 100px;
-background-size: cover;
+
 }
 #Explore-description{
-
+    box-shadow: 1px 1px 15px black;
+    width: 89%;
+    margin-left: 14px;
+    height: 179px;
+    position: relative;
+    top: -43px;
+    background-color: white;
+    border-radius: 9px;
 }
