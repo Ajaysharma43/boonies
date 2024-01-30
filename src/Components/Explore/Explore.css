@@ -6,9 +6,41 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+#Explore-text-1{
+    font-size: 54px;
+    text-align: center;
+    font-family: math;
+}
 #Explore-images{
     display: contents;
     gap: 60px;
     height: 72px;
     width: 72px;
 }
+
+#Explore-image-1{
+    height: 107px;
+    width: 106px;
+    padding: 28.995px 29.879px 29.879px 28.995px;
+    border: 2.979px solid green;
+    position: relative;
+    top: -31px;
+}
+#Explore-image-2{
+    height: 107px;
+    width: 106px;
+}
+
+#Explore-Text-2{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 193px;
+    position: relative;
+    left: 29px;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
